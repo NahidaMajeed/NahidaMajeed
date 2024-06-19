@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NahidaMajeed
-- 👀 I’m interested in embedded C coding.
-- 🌱 I’m currently learning python and yocto Project
+- 👀 I’m interested in embedded C coding, ML and Data Science.
+- 🌱 I’m currently learning Data science, Machine Learning, python and yocto Project
 - 📫 How to reach me : Nahida.jishad@gmail.com
 
 <!---
